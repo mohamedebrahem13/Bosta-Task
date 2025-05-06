@@ -16,6 +16,7 @@ The app follows a **clean architecture** using **MVVM** (Model-View-ViewModel), 
 - **MVVM Architecture**: To separate concerns and make the app more modular and testable.
 - **RecyclerView**: For displaying lists of cities and districts efficiently.
 - **StateFlow & ViewModel**: For managing UI state in a lifecycle-aware manner.
+- **XML**: For designing the UI layouts.
 - **Unit Testing**: Testing libraries like Turbine, MockK, and JUnit are used for testing.
 
 ---
