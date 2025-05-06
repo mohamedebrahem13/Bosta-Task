@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bosta-Task</string>
+    <string name="search_hint">City/Area</string>
+    <string name="uncovered">Uncovered</string>
+    <string name="choose_the_delivery_area">Choose the delivery area</string>
+
 </resources>
